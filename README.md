@@ -1,5 +1,5 @@
-# token-revoke
-The token-revoke plugin is designed to fit **Trapezo-express** and add a capability that most open-source token-based authentication libraries are missing: revocation.
+# Token-revoke
+The token-revoke plugin is designed to fit [Trapezo-express](https://github.com/Dercetech/trapezo-express) and add a capability that most open-source token-based authentication libraries are missing: revocation.
 
 **Trapezo-Express** is the project stub proposed by [Jérémie Mercier (Jem)](https://www.linkedin.com/in/jeremiemercier/) implementing the seamless [Trapezo](https://github.com/Dercetech/trapezo) dependency injection framework for Node.js. [Follow Jem's projects on twitter](https://twitter.com/dercetech).
 
